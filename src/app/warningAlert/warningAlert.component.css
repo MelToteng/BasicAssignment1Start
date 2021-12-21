@@ -1,0 +1,13 @@
+.warning-alert {
+    border-color: rgb(231, 10, 10);
+    border: groove;
+    height: 100px;
+    width: 30%;
+    padding-top: 30px;
+    background-color: rgb(231, 10, 10);
+}
+
+.message {
+    text-align: center;
+    color: white;
+}

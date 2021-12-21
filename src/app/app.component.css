@@ -1,0 +1,6 @@
+alert-container {
+    border: groove;
+    height: 100px;
+    width: 30%;
+    padding-top: 30px;
+}

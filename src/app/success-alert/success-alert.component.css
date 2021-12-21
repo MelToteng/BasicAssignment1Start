@@ -1,0 +1,13 @@
+.success-alert {
+    border-color: green;
+    border: groove;
+    height: 100px;
+    width: 30%;
+    padding-top: 30px;
+    background-color: green;
+}
+
+.message {
+    text-align: center;
+    color: white;
+}
